@@ -1,0 +1,22 @@
+{
+  "wheel_id": 504,
+  "structure": "umbrella",
+  "slug": "bestsydneyrestaurants-150",
+  "project": "restaurants-sydney-89e66a5424acf1d8587b452ec4093fff7379896f",
+  "parent_t1_ref": "bestsydneyrestaurants-009",
+  "node_role": "buffer",
+  "money_target": "bestsydneyrestaurants.com.au",
+  "primary_kw": "restaurants sydney",
+  "intended_url": "https://aumedia.neocities.org/restaurants-sydney-89e66a5424acf1d8587b452ec4093fff7379896f/",
+  "tier": "T2",
+  "writeback_nonce": "0c4bddbdec6fcd4b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/restaurants-sydney-009/",
+      "anchor": "more on restaurants sydney",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
